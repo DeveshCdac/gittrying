@@ -1,0 +1,14 @@
+total 12
+drwxr-xr-x 3 devesh devesh 4096 May 17 15:24 .
+drwxr-xr-x 5 devesh devesh 4096 May 17 15:20 ..
+-rw-r--r-- 1 devesh devesh    0 May 17 15:24 file1.txt
+drwxr-xr-x 8 devesh devesh 4096 May 17 15:26 .git
+
+
+total 16
+drwxr-xr-x 3 devesh devesh 4096 May 17 15:24 .
+drwxr-xr-x 5 devesh devesh 4096 May 17 15:20 ..
+-rw-r--r-- 1 devesh devesh  418 May 17 15:29 file1.txt
+drwxr-xr-x 8 devesh devesh 4096 May 17 15:26 .git
+
+
